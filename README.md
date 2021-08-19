@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humza1997
-- 👀 I’m interested in learning to code and starting a career in the industry!
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm currently on the futureproof coding bootcamp and looking to break into the tech industry.
+- 🌱 I’m currently learning React!
+- 💞️ I’m looking to collaborate on some cool front end design projects.
 - 📫 How to reach me PM
 
 <!---
